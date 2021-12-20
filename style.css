@@ -1,0 +1,32 @@
+/*Set timer to upper-right*/
+#currentTime {
+    position: relative;
+    float: right;
+    background-color: yellow;
+}
+
+
+/* Media queries for a responsive layout */
+@media screen and (max-width: 900px) {
+    body {
+        max-width: 900px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        max-width: 768px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    body {
+        max-width: 600px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    body {
+        max-width: 480px;
+    }
+}
