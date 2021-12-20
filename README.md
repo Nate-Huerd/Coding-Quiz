@@ -21,4 +21,4 @@ THEN I can save my initials and score
 [![Coding-Quiz-Screenshot.png](https://i.postimg.cc/8cbZMbcz/Coding-Quiz-Screenshot.png)](https://postimg.cc/CnzCVkb3)
 
 ### url of deployed code:
-
+https://nate-huerd.github.io/Coding-Quiz/
